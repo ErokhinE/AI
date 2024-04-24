@@ -3,7 +3,7 @@
 In a designated field where Thanos has hidden the Infinity Stone, our objective is to locate this powerful artifact without encountering the Avengers.
 The exact locations of potential obstacles are unknown, prompting us to survey the area using visual sectors to navigate safely.
 
-First file tasl done by A*, second using backtacking
+First file task done by A*, second using backtacking
 
 # Detail description with story:
 
