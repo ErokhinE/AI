@@ -1,2 +1,2 @@
 # AI
-Basic AI project
+AI projects
