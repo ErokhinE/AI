@@ -1,8 +1,10 @@
-Main idea of a project:
+# Main idea of a project:
+
 In a designated field where Thanos has hidden the Infinity Stone, our objective is to locate this powerful artifact without encountering the Avengers.
 The exact locations of potential obstacles are unknown, prompting us to survey the area using visual sectors to navigate safely.
 
-Detail description with story:
+# Detail description with story:
+
 According to the Marvel Comics, Thanos is looking for the Infinity Stones to terminate
 half of the living creatures in the Universe, and Avengers at the same time try to prevent this.
 In one of the Marvel’s alternative realities Thanos tries to find one of the Infinity Stones.
